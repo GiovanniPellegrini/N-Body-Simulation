@@ -1,0 +1,13 @@
+Star Sun [(0, 0), (0, 0), 1.98855e30];
+
+Planet Mercury [(5.790905e10, 0), (0, 4.7362e4), 3.3011e23]; parent=Sun
+Planet Venus [(1.08208e11, 0), (0, 3.502e4), 4.8675e23]; parent=Sun
+Planet Earth [(1.49598023e11, 0), (0, 2.978e4), 5.97237e24]; parent=Sun
+Planet Mars [(2.279392e11, 0), (0, 2.4007e4), 6.4171e23]; parent=Sun
+
+Moon Moon [(1.49982422e11, 0), (0, 3.0802e4), 7.342e22]; parent=Earth
+Moon Phobos [(2.27948576e11, 0), (0, 2.6145e4), 1.0659e16]; parent=Mars
+Moon Deimos [(2.27915737e11, 0), (0, 2.26557e4), 1.4762e15]; parent=Mars
+
+
+Comet Comet1 [(5e11,-9e10), (-7e4, 1e4),2.2e14];

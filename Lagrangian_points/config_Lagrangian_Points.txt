@@ -1,0 +1,7 @@
+# Simulation configuration
+dt=31.5576
+steps=50000000
+printingStepsPositions=1000
+printingStepsEnergies=1000
+useLeapfrog=False
+origin=Earth

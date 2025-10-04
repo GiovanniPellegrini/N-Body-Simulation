@@ -1,0 +1,6 @@
+Star Star1 [(1e10, 0), (0, 30000), 9.94275e29];
+
+Star Star2 [(-1e10, 0), (0, -30000), 9.94275e29];
+
+Planet Planet1 [(6e10, 0), (0, 33000), 3e23]; parent=Star1
+Planet Planet2 [(-6e10, 0), (0, -33000), 3e23]; parent=Star2

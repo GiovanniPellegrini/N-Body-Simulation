@@ -1,0 +1,7 @@
+# Simulation configuration
+dt=31.5576
+steps=1000000
+printingStepsPositions=1000
+printingStepsEnergies=1000
+useLeapfrog=False
+origin=0,0
