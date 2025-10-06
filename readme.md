@@ -44,8 +44,8 @@ Usage: ./main <run_name> <input.txt> <config.txt>
 ```  
 where 
 - `run_name` is name of the directory that is created where all useful simulation results will be stored.
-- `input.txt` is the file where all bodies in the simulation are declared (see Tutorial)
-- `config.txt` is where all the parameters of the simulations are specified (see Tutorial)
+- `input.txt` is the file where all bodies in the simulation are declared (see [Tutorial](https://github.com/GiovanniPellegrini/N-Body-Simulation/blob/main/Tutorial.md)
+- `config.txt` is where all the parameters of the simulations are specified (see [Tutorial](https://github.com/GiovanniPellegrini/N-Body-Simulation/blob/main/Tutorial.md))
 
 Each simulation will create two file `positions.txt` and `energies.txt`, which can be  analyse and display through the two phyton scripts `analyse_positions.py` and `analyse_energies.py` 
 
