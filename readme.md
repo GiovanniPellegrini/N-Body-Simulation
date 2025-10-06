@@ -70,7 +70,6 @@ so for example:
 
 # Animations
 
-![Animation](https://github.com/GiovanniPellegrini/not_intellij_idea/blob/master/examples/demo/demo-animation.gif)
 
 If you want to create an animation you can use the script `analyse_positions_animations.py` which use the libraries FuncAnimation, PillowWriter from matplotlib.animation
 
